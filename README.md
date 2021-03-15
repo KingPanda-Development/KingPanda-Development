@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Team-KingPanda/Team-KingPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Team-KingPanda&show_icons=true&theme=midnight-purple)
+- ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Team-KingPanda&layout=compact&theme=midnight-purple)
+
+<!--
+**Team-KingPanda/Team-KingPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
