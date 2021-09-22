@@ -29,7 +29,7 @@ My Statistics
      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ei" alt="JavaScript"></img>
   </a>
   <a>
-     <img src="https://img.shields.io/badge/DJS-CB3837?style=for-the-badge&logo=data:src/png;discord&logoColor=white" alt="NPM"></img>
+     <img src="https://img.shields.io/badge/DISCORD.JS-CB3837?style=for-the-badge&logo=data:src/youtube.png;&logoColor=white" alt="NPM"></img>
   </a>
 </div>
 
