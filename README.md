@@ -20,7 +20,7 @@ My Statistics
     <a href="https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg">
     <img src="src/youtube.png" alt="Youtube" width="47em">
     </a>
-    <a href="https://discord.gg/8rUvTYhFqK">
+    <a href="https://discord.gg/p9HHR35mST">
     <img src="src/discord.png" alt="Discord" width="40em">
     </a>
     <a href="https://github.com/KingPanda-Development">
