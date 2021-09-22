@@ -15,21 +15,24 @@ I am a person who likes to learn about javcript (about discord bots), I also mak
 ---
 
 <h1 align="center">
-My Statistics
+My Substance
 </h1>
 
 <div align="center">
   <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"></img>
+    <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green" alt="NodeJS"></img>
   </a>
+  
   <a href="https://npmjs.com">
-     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></img>
+     <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></img>
   </a>
+  
   <a>
      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Ei" alt="JavaScript"></img>
   </a>
-  <a>
-     <img src="https://img.shields.io/badge/DISCORD.JS-CB3837?style=for-the-badge&logo=data:src/youtube.png;&logoColor=white" alt="NPM"></img>
+  
+  <a href="https://npmjs.com/package/discord.js">
+     <img src="https://img.shields.io/badge/DISCORD.JS-323330?style=for-the-badge&logoColor=white" alt="DJS"></img>
   </a>
 </div>
 
@@ -40,12 +43,15 @@ My Statistics
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg">
-    <img src="src/youtube.png" alt="Youtube" width="47em">
+        <img src="src/youtube.png" alt="Youtube" width="47em">
     </a>
     <a href="https://discord.gg/p9HHR35mST">
-    <img src="src/discord.png" alt="Discord" width="40em">
+        <img src="src/discord.png" alt="Discord" width="40em">
     </a>
     <a href="https://github.com/KingPanda-Development">
-    <img src="src/github.png" alt="Github" width="40em">
+        <img src="src/github.png" alt="Github" width="40em">
     </a>
+
+![](https://github-readme-stats.vercel.app/api?username=kingpanda-development&show_icons=true&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kingpanda-development&layout=compact&theme=algolia)
 </div>
