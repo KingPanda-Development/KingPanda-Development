@@ -18,14 +18,12 @@ My Statistics
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCS1P0f3H20_CKxGVvACFWBg">
-    <img src="" alt="Youtube" width="40em">
+    <img src="src/youtube.png" alt="Youtube" width="47em">
     </a>
     <a href="https://discord.gg/8rUvTYhFqK">
-    <img src="src/youtube.png" alt="Discord" width="40em">
+    <img src="src/discord.png" alt="Discord" width="40em">
     </a>
-    <a href="https://github.com/SadesXD">
+    <a href="https://github.com/KingPanda-Development">
     <img src="src/github.png" alt="Github" width="40em">
     </a>
-    <a href="https://saweria.co/sadesxdgt">
-    <img src="src/saw.png" alt="Saweria" width="40em">
-    </a>
+</div>
